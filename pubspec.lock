@@ -127,15 +127,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.0"
-  counting_set:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: "3e1353cde9e45ffce4acf8156a06cdf0061e1219"
-      resolved-ref: "3e1353cde9e45ffce4acf8156a06cdf0061e1219"
-      url: "git://github.com/hacker1024/counting_set.dart.git"
-    source: git
-    version: "0.1.1"
   crypto:
     dependency: transitive
     description:

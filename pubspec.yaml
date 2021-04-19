@@ -10,10 +10,6 @@ environment:
 
 dependencies:
   freezed_annotation: ^0.14.1
-  counting_set:
-    git:
-      url: 'git://github.com/hacker1024/counting_set.dart.git'
-      ref: '3e1353cde9e45ffce4acf8156a06cdf0061e1219'
 
 dev_dependencies:
   build_runner: ^1.12.2
